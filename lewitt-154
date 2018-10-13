@@ -1,0 +1,16 @@
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+  
+  for (var i = 10; i <= 390 ; i = i + 10) {
+  var startX = i;
+  var startY = 20;
+  var endX = 20;
+  var endY = 20;
+  line(10, 200, 200,200);
+}
+  
+}
